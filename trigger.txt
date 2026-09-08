@@ -7,3 +7,4 @@ triggehhhr
 trigger
 trigger
 trigger
+trigger-final-test
